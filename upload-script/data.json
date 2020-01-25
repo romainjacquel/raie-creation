@@ -1,0 +1,25 @@
+{
+  "appointment": [
+    {
+      "firstName": "Romain",
+      "lastName": "JACQUEL",
+      "phoneNumber": "0771241996",
+      "date": "25-01-2020",
+      "hour": "18:00"
+    },
+    {
+      "firstName": "Maxime",
+      "lastName": "LECONTE",
+      "phoneNumber": "0771241996",
+      "date": "25-01-2020",
+      "hour": "17:00"
+    },
+    {
+      "firstName": "Loris",
+      "lastName": "Llamas",
+      "phoneNumber": "0771241996",
+      "date": "25-01-2020",
+      "hour": "16:00"
+    }
+  ]
+}
